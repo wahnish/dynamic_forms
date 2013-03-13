@@ -1,0 +1,1 @@
+This is a sample application focused on Ryan Bates' Railscast on Dynamic Forms.
